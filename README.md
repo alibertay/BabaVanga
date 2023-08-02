@@ -3,6 +3,6 @@ BabaVanga is used to predict the results of future matches by using the KNN algo
 
 The elos of the football teams must be entered while making the prediction. The predictive accuracy of the score ratio is approximately 26%, and the match result prediction accuracy is approximately 83%.
 
-BabaVanga is currently working as MVP. If you want to use BabaVanga, download the BabaVanga file in the output directory and run the BabaVanga.exe application.
+BabaVanga is currently working as MVP. If you want to use BabaVanga, download the BabaVanga the output directory and run the BabaVanga.exe.
 
 Dataset: https://www.kaggle.com/datasets/smtcnm/2019-2020-turkey-football-club-matches
